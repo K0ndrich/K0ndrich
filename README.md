@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center">Hello, I'm Max K0ndrich 👋 </h2>
 
 <!--
 **K0ndrich/K0ndrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
