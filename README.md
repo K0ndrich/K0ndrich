@@ -8,7 +8,9 @@ I am a beginner Python developer who is passionate about codo and everything rel
 - 💬 Обсуждайте со мной о [темы, на которые вы хотите поговорить].
 - ⚡ Факты о мне: [несколько интересных фактов о вас].
 
-## 🛠️ Мои навыки
+## ![image](https://github.com/user-attachments/assets/f23bdd19-f5f7-4f31-845b-e89880373dc4)
+ My Tech Stack
+
 
 - Pure Python
 - OOP Python
