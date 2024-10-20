@@ -1,7 +1,5 @@
 <h2 align="center">Hello, I'm Max K0ndrich 👋 </h2>
 
-##
-##
 
 ## 😗 О себе
 
