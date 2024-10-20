@@ -24,6 +24,5 @@
 
 ## ☎ My Contacts
 
-- 📧 
-- 🌐 
-- 🐦 
+- 📧 [Telegram](https://t.me/Kondrich1)
+- 🌐 [Docker Hub](https://hub.docker.com/u/k0ndrich)
