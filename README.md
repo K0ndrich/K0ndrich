@@ -11,18 +11,16 @@ I am a beginner Python developer who is passionate about codo and everything rel
 ## 🏗 My Tech Stack
 
 
-- Pure Python
-- OOP Python
-- Framework Django
-- Django REST
-- Git / Git Hub / Git Actions
-- SQLite / PostgreSQL / PgAdmin
-- Celery / Redis
-- Testing / Unittest
-- Docker / Docker-Compose / Docker Hub
-- Linux / Ubuntu / Kali Linux
-- Веб-технологии: [HTML, CSS, React, и т.д.]
-- Инструменты и платформы: [Git, Docker, AWS, и т.д.]
+- **Pure Python**
+- **OOP Python**
+- **Framework Django**
+- **Django REST**
+- **Git / Git Hub / Git Actions**
+- **SQLite / PostgreSQL / PgAdmin**
+- **Celery / Redis**
+- **Testing / Unittest**
+- **Docker / Docker-Compose / Docker Hub**
+- **Linux / Ubuntu / Kali Linux**
 
 ## 📂 Мои проекты
 
