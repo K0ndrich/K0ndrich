@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Max K0ndrich 👋 </h2>
 
 
-## 😗 О себе
+## 😗 About Me
 
   📝 **Hello! My name is Maxim Kondratenko and I am a beginner Python developer.
   I am passionate about creating simple but effective solutions in Python, learning various libraries and constantly improving my programming skills. 
