@@ -11,21 +11,21 @@
 ## 🏗 My Tech Stack
 
 
-- **Pure Python**
-- **OOP Python**
-- **Framework Django**
-- **Django REST**
-- **Git / Git Hub / Git Actions**
-- **SQLite / PostgreSQL / PgAdmin**
-- **Celery / Redis**
-- **Testing / Unittest**
-- **Docker / Docker-Compose / Docker Hub**
-- **Linux / Ubuntu / Kali Linux**
+- **Pure Python 🐍**
+- **OOP Python 🔧**
+- **Framework Django 🌐**
+- **Django REST 💻**
+- **Git / Git Hub / Git Actions 🐙**
+- **SQLite / PostgreSQL / PgAdmin 💾**
+- **Celery / Redis 🗄️**
+- **Testing / Unittest 🛠️**
+- **Docker / Docker-Compose / Docker Hub 🚢**
+- **Linux / Ubuntu / Kali Linux 📂**
 
 ## ☎ My Contacts
 
-- 🌐 [Gmail](123kondrich@gmail.com)
-- 📧 [Telegram](https://t.me/Kondrich1)
-- 🌐 [Docker Hub](https://hub.docker.com/u/k0ndrich)
-- 🌐 [Zoom](https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=123kondrich%40gmail.com)
-- 🌐 [SoundCloud](https://soundcloud.com/vw5m0mu9z4yh?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+- 📬 [Gmail](123kondrich@gmail.com)
+- 💬 [Telegram](https://t.me/Kondrich1)
+- 🐳 [Docker Hub](https://hub.docker.com/u/k0ndrich)
+- 📹 [Zoom](https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=123kondrich%40gmail.com)
+- 🎵 [SoundCloud](https://soundcloud.com/vw5m0mu9z4yh?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
