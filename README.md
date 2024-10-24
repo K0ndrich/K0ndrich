@@ -24,8 +24,8 @@
 
 ## ☎ My Contacts
 
-- 📬 [Gmail](123kondrich@gmail.com) **( 123kondrich@gmail.com )**
-- 💬 [Telegram](https://t.me/Kondrich1)
-- 🐳 [Docker Hub](https://hub.docker.com/u/k0ndrich)
+- 📬 [Gmail](123kondrich@gmail.com)                     **| 123kondrich@gmail.com |**
+- 💬 [Telegram](https://t.me/Kondrich1)                 **| https://t.me/Kondrich1 |**
+- 🐳 [Docker Hub](https://hub.docker.com/u/k0ndrich)    **| https://hub.docker.com/u/k0ndrich |**
 - 📹 [Zoom](https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=123kondrich%40gmail.com)
 - 🎵 [SoundCloud](https://soundcloud.com/vw5m0mu9z4yh?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
