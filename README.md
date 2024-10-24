@@ -4,7 +4,7 @@
 ## 😗 About Me
 
   📝 **Hello! My name is Maxim Kondratenko and I am a beginner Python developer.
-  I am passionate about creating simple but effective solutions in Python, learning various libraries and constantly improving my programming skills ⌨️. 
+  I am passionate about creating simple but effective solutions in Python, learning various libraries and constantly improving my programming skills 💡. 
   My interests include writing server-side parts of websites, data analysis and web application development. 
   I am currently working on improving my knowledge in testing, working with APIs and code optimization 🚀.**
 
