@@ -14,7 +14,7 @@
 - **Pure Python 🐍**
 - **OOP Python 🔧**
 - **Framework Django 🌐**
-- **Django REST 💻**
+- **Django REST / Rest API 💻**
 - **Git / Git Hub / Git Actions 🐙**
 - **SQLite / SQLite Studio 🛢️**
 - **PostgreSQL / PgAdmin 💾**
