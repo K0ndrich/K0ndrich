@@ -16,7 +16,8 @@
 - **Framework Django 🌐**
 - **Django REST 💻**
 - **Git / Git Hub / Git Actions 🐙**
-- **SQLite / PostgreSQL / PgAdmin 💾**
+- **SQLite / SQLite Studio 🛢️**
+- **PostgreSQL / PgAdmin 💾**
 - **Celery / Redis 🗄️**
 - **Testing / Unittest 🛠️**
 - **Docker / Docker-Compose / Docker Hub 🚢**
